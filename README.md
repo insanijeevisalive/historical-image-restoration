@@ -155,3 +155,26 @@ Dataset source, licensing details, research references, and experimental results
 
 **Project:** Historical Image Restoration Using Digital Image Processing Techniques
 
+## Application Preview
+
+![Application Interface](screenshots/app-interface.png)
+
+## Restoration Results
+
+The restoration pipeline is demonstrated through the following stages.
+
+### Original and Synthetic Damage
+
+![Original and Damaged Image](screenshots/restoration-1.png)
+
+### Ground-Truth Mask and Restored Image
+
+![Ground Truth and Restored Image](screenshots/restoration-2.png)
+
+### Final Restoration Output
+
+![Final Restored Output](screenshots/restoration-3.png)
+
+## Image Quality Evaluation
+
+![Image Quality Metrics](screenshots/quality-metrics.png)
