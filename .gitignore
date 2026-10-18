@@ -1,0 +1,30 @@
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated results and backups
+results/
+results_old_backup/
+
+# Dataset folders not intended for public upload
+dataset/original/
+dataset/damaged/
+dataset/masks/
+dataset/processed_original/
+
+# Secrets and temporary files
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
