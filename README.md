@@ -176,5 +176,6 @@ The restoration pipeline is demonstrated through the following stages.
 ![Final Restored Output](screenshots/restoration-3.png)
 
 ## Image Quality Evaluation
+The restoration pipeline is evaluated using Mean Squared Error (MSE), Peak Signal-to-Noise Ratio (PSNR), and Structural Similarity Index (SSIM).
 
 ![Image Quality Metrics](screenshots/quality-metrics.png)
